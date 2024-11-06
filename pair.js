@@ -58,19 +58,19 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-❤️𝗣𝗢𝗣𝗞𝗜𝗗 𝗠𝗗 𝗦𝗘𝗦𝗦𝗜𝗢𝗡𝗦
+😂 BABY GIRL 𝗠𝗗 𝗦𝗘𝗦𝗦𝗜𝗢𝗡𝗦
 💙𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬
 ❤️𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || DEV = 𝗣𝗢𝗣𝗞𝗜𝗗
+❶ || DEV = YOO ITS ALVINO 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || Instagram link = https://www.instagram.com/popkid254
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l
 Wanna talk? http://wa.me/254111385747?
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*𝗣𝗢𝗣𝗞𝗜𝗗*
+©*ALVINNO*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
