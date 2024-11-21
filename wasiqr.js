@@ -60,7 +60,7 @@ router.get('/', async (req, res) => {
 	
 				   let TREX_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-💙𝗣𝗢𝗣𝗞𝗜𝗗 𝗠𝗗
+💙Alvin session id 
 ❤️𝗦𝗨𝗖𝗖𝗘𝗦𝗙𝗨𝗟𝗟𝗬
 💙𝗖𝗢𝗡𝗡𝗘𝗖𝗧𝗘𝗗
 ┗━━━━━━━━━━━━━━━
